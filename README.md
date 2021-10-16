@@ -1,1 +1,1 @@
-[Link For the Backend](https://github.com/Bhaumik-Tandan/Rest_Api_Naukri)
+[Link For heroku](https://property-bhaumik-tandan.herokuapp.com)
